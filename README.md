@@ -7,5 +7,5 @@ Physics code is based on work by Benedikt Bitterli and Gerard Ferrandez.
 
 Sound effects use ZzFX by Frank Force.
 
-Game Sound:  killedbyapixel.github.io/ZzFX 
+Game Sound:  https://killedbyapixel.github.io/ZzFX 
 Source Code: https://github.com/mvasilkov/js13k2020.git
